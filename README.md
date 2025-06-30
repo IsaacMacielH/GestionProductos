@@ -1,5 +1,5 @@
 # GestionProductos
-📌 Funcionalidades implementadas
+## 📌 Funcionalidades implementadas
 
 ✅ Gestión de Productos
 
@@ -23,8 +23,20 @@ Consumo de https://fakestoreapi.com/products con HttpClient.
 
 Visualización de productos (nombre, descripción, precio e imagen).
 
+## 📦 Estructura
+/GearionProductos
+├── Forms/
+│   ├── FormPedidos.vb
+│   ├── Form1.vb
+├── Clases/
+│   ├── Producto.vb
+│   ├── Pedido.vb
+│   └── DetallePedido.vb
+|
+└── README.md
 
-🚀 Instrucciones para ejecutar
+
+## 🚀 Instrucciones para ejecutar
 
 Entorno: Visual Studio 2022
 
